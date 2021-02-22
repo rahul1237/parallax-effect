@@ -19,3 +19,17 @@
     background-attachment: fixed;
     height: 500px;
 }
+
+.parallax1{
+    background: url('./img1.png') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.parallax2{
+    background: url('./img2.png') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
