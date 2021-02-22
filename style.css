@@ -14,7 +14,7 @@
 }
 
 .parallax{
-    background: url('/Screenshot\ 2021-02-22\ 104233.png') no-repeat center;
+    background: url('./Screenshot\ 2021-02-22\ 104233.png') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 500px;
